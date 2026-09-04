@@ -1,6 +1,4 @@
-Execução
-
-1. Acesse o diretório do algoritmo
+1. Acesse o diretório do algoritmo no terminal
    
 cd algorithm
 
